@@ -1,2 +1,2 @@
 # open-data
-Data files from the internets
+Open Data files from the internets
